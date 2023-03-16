@@ -105,3 +105,11 @@ a {
     color-scheme: dark;
   }
 }
+
+.azul {
+  background-color: dodgerblue;
+}
+
+.vermelho {
+  background-color: crimson;
+}
